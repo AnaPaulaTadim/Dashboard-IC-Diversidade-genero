@@ -5,7 +5,9 @@
 
 ## 📖 Sobre o Projeto (Iniciação Científica)
 
-Este estudo analisa a participação feminina em diferentes subcampos da Ciência da Computação em programas de pós-graduação no Brasil. Para isso, foi utilizada uma base de dados de pesquisadores, com informações extraídas da plataforma OpenAlex, incluindo publicações e tópicos de pesquisa. 
+Este estudo analisa a participação feminina em diferentes subcampos da Ciência da Computação em programas de pós-graduação no Brasil, especificamente da Universidade Federal de Ouro Preto. Para isso, foi utilizada uma base de dados pronta com informações desses pesquisadores. A partir do `author_id` contido nessa base, foram extraídos os principais tópicos de pesquisa de cada perfil diretamente da plataforma OpenAlex.
+
+A metodologia consistiu no tratamento desses dados extraídos e na identificação do gênero dos pesquisadores, permitindo observar de forma interativa como as mulheres estão distribuídas entre as diferentes áreas de atuação da computação. 
 
 A metodologia consistiu na coleta e no tratamento dos dados, além da identificação do gênero dos pesquisadores, permitindo observar como as mulheres estão distribuídas entre as diferentes áreas.
 
