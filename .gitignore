@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Segredos
+.env
+
+# Planilhas com nomes dos pesquisadores (geradas pelos scripts) — não publicar
+data/*.xlsx
+
+# Sistema
+.DS_Store
