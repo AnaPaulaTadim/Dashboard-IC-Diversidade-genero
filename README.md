@@ -1,4 +1,5 @@
-# 📊 Diversidade de Gênero na Pós-Graduação em Ciência da Computação
+# 📊 Diversidade gênero entre pesquisadores credenciados em programas brasileiros de pós-graduação em Ciência da Computação 
+
 
 ![Preview do Dashboard](dashboard_preview.gif)
 > *Dashboard interativo desenvolvido para visualização dos dados da pesquisa. O gráfico geral apresenta os valores absolutos (em branco) ao posicionar o cursor sobre cada subcampo.*
