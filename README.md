@@ -23,8 +23,8 @@ De modo geral, os dados indicam que a participação feminina na computação oc
 * **Visualização:** Plotly
 * **Framework Web:** Dash (com Dash Bootstrap Components)
 
-## 🚀 Como executar o projeto localmente
+## Prévia
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
+| Visão geral (todos os subcampos) | Um subcampo selecionado (exemplo: Artificial Intelligence) |
+|---|---|
+| ![Visão geral](docs/preview_geral.png) | ![Subcampo](docs/preview_subcampo.png) |
