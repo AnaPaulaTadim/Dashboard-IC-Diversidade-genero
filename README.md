@@ -9,8 +9,6 @@ Este estudo analisa a participação feminina em diferentes subcampos da Ciênci
 
 A metodologia consistiu no tratamento desses dados extraídos e na identificação do gênero dos pesquisadores, permitindo observar de forma interativa como as mulheres estão distribuídas entre as diferentes áreas de atuação da computação. 
 
-A metodologia consistiu na coleta e no tratamento dos dados, além da identificação do gênero dos pesquisadores, permitindo observar como as mulheres estão distribuídas entre as diferentes áreas.
-
 **Principais Resultados:**
 * A presença feminina varia significativamente entre os subcampos. 
 * Em termos percentuais, há maior participação em áreas como **Interação Humano-Computador**. 
